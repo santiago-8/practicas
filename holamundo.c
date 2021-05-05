@@ -3,5 +3,5 @@
 int main()
 
 { 
-printf("Holamundo\n");
+printf("H\no\nl\na\n\nm\nu\nn\nd\no\n");
 }

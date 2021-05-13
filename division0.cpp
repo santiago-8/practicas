@@ -11,7 +11,7 @@ int main()
 	cout << "** ¡Hola! Este es un programa para dividir números naturales **" << endl << endl;		
 	cout <<  "Ingrese 0 en cualquier momento para salir." << endl ;  /* Menú del programa */
 
-	while ( dividendo > 0 && divisor > 0 )							/* Si el dividendo y el divisor son mayores a 0,ejecuta el bloque de instrucciones */
+	while ( dividendo > 0 && divisor > 0 )					/* Si el dividendo y el divisor son mayores a 0,ejecuta el bloque de instrucciones */
 	{	
 	cout << endl << "Ingrese el dividendo: " ;
 
